@@ -1,0 +1,6 @@
+
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$transition\".\A         on line 15 of s\A \A 10: 	.sb_team_box{\A 11: 		margin-top: 30px;\A 12: 	    background-color: #fff;\A 13: 	    padding: 0px 0px 23px;\A 14: 	    border-radius: 6px;\A 15: 	    -webkit-transition: $transition;\A 16: 		-o-transition: $transition;\A 17: 		-ms-transition: $transition;\A 18: 		-moz-transition: $transition;\A 19: 		 transition: $transition;\A 20: 	    	&:hover{"; }

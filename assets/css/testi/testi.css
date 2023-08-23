@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$body-color\".\A         on line 67 of \A \A 62:       float:left;\A 63:       padding-top:20px;\A 64:     }\A 65:     span{\A 66:       font-size:16px;\A 67:       color:$body-color;\A 68:       padding-top:19px;\A 69:       float:left;\A 70:       padding-left:10px;\A 71:     }\A 72:   }"; }

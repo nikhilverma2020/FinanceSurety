@@ -1,0 +1,143 @@
+/*--width 1400 --*/
+/*--width 1199 --*/
+@media (max-width: 1199px) {
+  .sb_banner_form_main_wrapper .sb_banner_form_box_wrapper .sb_banner_form_inner_box_wrapper .sb_form_box {
+    width: 14.5%; } }
+/*--width 991 --*/
+@media (max-width: 991px) {
+  .sb_navbar_wrapper nav li {
+    margin-left: 20px; }
+
+  .sb_sw_login_wrapper ul li:first-child {
+    display: none; }
+
+  .sb_sw_login_wrapper {
+    width: 160px; }
+
+  .sb_navbar_wrapper {
+    width: calc(100% - 160px); }
+
+  .sb_banner_form_main_wrapper .sb_banner_form_box_wrapper .sb_banner_form_inner_box_wrapper .sb_form_box {
+    width: 47%;
+    margin-bottom: 30px; }
+
+  .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_tabs_wrapper {
+    width: 100%; }
+    .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_tabs_wrapper .nav-tabs .nav-link.active:after {
+      display: none; }
+  .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_img_main_section {
+    width: 100%; }
+    .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_img_main_section .sb_proper_img_wrapper {
+      width: 100%; }
+    .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_img_main_section .sb_proper_list_wrapper {
+      width: 100%; }
+
+  .right_border:after, .left_border:after {
+    display: none; }
+
+  .sb_footer_main_wrapper .sb_footer_right_cont_wrapper {
+    padding-top: 0; } }
+/*--width 767 --*/
+@media (max-width: 767px) {
+  .sb_navbar_wrapper {
+    text-align: left; }
+    .sb_navbar_wrapper nav {
+      float: left;
+      padding: 0;
+      width: 100%; }
+      .sb_navbar_wrapper nav button {
+        float: right;
+        width: 100%;
+        margin-top: -60px;
+        padding: 0; }
+        .sb_navbar_wrapper nav button .ss_menu_btn {
+          padding-bottom: 30px; }
+      .sb_navbar_wrapper nav li {
+        padding-top: 15px;
+        padding-bottom: 15px; }
+        .sb_navbar_wrapper nav li:hover a:after, .sb_navbar_wrapper nav li.active a:after {
+          right: auto; }
+        .sb_navbar_wrapper nav li a {
+          color: #111; }
+          .sb_navbar_wrapper nav li a:after {
+            right: auto; }
+        .sb_navbar_wrapper nav li:hover a, .sb_navbar_wrapper nav li.active a {
+          color: #0e5f5a; }
+          .sb_navbar_wrapper nav li:hover a:after, .sb_navbar_wrapper nav li.active a:after {
+            border: 1px solid #0e5f5a; }
+      .sb_navbar_wrapper nav .navbar-collapse {
+        position: absolute;
+        width: 100%;
+        top: 100%;
+        background: #fff;
+        border: 2px solid #eee;
+        z-index: 100;
+        padding-bottom: 20px;
+        padding-top: 10px; }
+
+  .menu_fixed {
+    padding-bottom: 0 !important; }
+
+  .sb_main_header_wrapper {
+    padding-bottom: 0; }
+
+  .navbar-dark .navbar-toggler {
+    border: 0; }
+
+  .sb_sw_login_wrapper {
+    display: none; }
+
+  .sb_navbar_wrapper {
+    width: 100%; }
+
+  .sb_banner_content_wrapper .sb_banner_cont_iner_wrapper {
+    padding-top: 60px; }
+    .sb_banner_content_wrapper .sb_banner_cont_iner_wrapper h3 {
+      font-size: 40px;
+      line-height: 50px;
+      padding-bottom: 15px; }
+    .sb_banner_content_wrapper .sb_banner_cont_iner_wrapper h4 {
+      font-size: 18px;
+      padding-bottom: 20px;
+      line-height: 28px; }
+
+  .sb_navbar_wrapper {
+    position: relative;
+    margin-top: -60px; }
+
+  .sb_banner_form_main_wrapper .sb_banner_form_box_wrapper h3 {
+    font-size: 18px; }
+  .sb_banner_form_main_wrapper .sb_banner_form_box_wrapper .sb_banner_form_inner_box_wrapper .sb_form_box {
+    width: 100%;
+    margin-right: 0; }
+
+  .sb_heading_wrapper h3 {
+    font-size: 26px;
+    padding: 0 10px; }
+
+  .sb_proper_main_wrapper .sb_proper_inner_main_box_wrapper .sb_proper_img_main_section .sb_proper_img_wrapper img {
+    height: auto; }
+
+  .sb_about_main_wrapper {
+    background: #111; }
+    .sb_about_main_wrapper .sb_abt_img {
+      margin-top: 30px; }
+
+  .sb_testimonial_main_wrapper .sb_testimonial_slider_wrapper .os_index5_testimonial_slider_img_cont {
+    width: 100%;
+    padding-left: 0; }
+
+  .sb_footer_main_wrapper .sb_footer_left_cont_wrapper {
+    padding-bottom: 0; }
+  .sb_footer_main_wrapper .sb_footer_center_cont_wrapper {
+    text-align: left;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 0;
+    padding-right: 0; } }
+/*--width 580 --*/
+/*--width 480 --*/
+/*--width 380 --*/
+/*--width 320 --*/
+
+/*# sourceMappingURL=responsive.css.map */

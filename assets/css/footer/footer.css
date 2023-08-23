@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$title-color-white\".\A         on line 15 of \A \A 10: 	text-align:center;\A 11: 	background:#019cde;\A 12: 	.sb_bootom_footer_cont{\A 13: \A 14: 		p{\A 15: 			color:$title-color-white;\A 16: 			float: left;\A 17: 			a{\A 18: 				color:$title-color-white;\A 19: 			}\A 20: 		}"; }

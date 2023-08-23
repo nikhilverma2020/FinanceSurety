@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$title-color-hover\".\A         on line 16 of \A \A 11: 	position:relative;\A 12: 	display:inline-block;\A 13: 	        line-height: 28px;\A 14:     padding: 0 30px;\A 15: 	    margin-top: 5px;\A 16:     border-left: 2px solid $title-color-hover;\A 17:     border-right: 2px solid $title-color-hover;\A 18: 	&:after{\A 19: 		content: '';\A 20: 		border: 1px solid $title-color-hover;\A 21: 		width: 60px;"; }

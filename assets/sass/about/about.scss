@@ -1,0 +1,49 @@
+/************************-- ABOUT CSS START --********************************/
+
+.sb_listing_main_wrapper{
+	padding-top:100px;
+	padding-bottom:100px;
+		.about_heading {
+		    text-align: left;
+		    	h3{
+		    		border-left: 0;
+    				padding-left: 0;
+    				&:before{
+    					display:none;
+    				}
+		    	}
+		    	h4{
+		    		font-size: 30px;
+    				padding: 15px 0px 0px;
+    				line-height: 35px;
+		    	}
+		    	p{
+		    		line-height: 30px;
+		    		padding-top: 15px;
+		    	}
+		}
+	.sb_listing_heading_wrapper{
+		padding-bottom:30px;
+	}
+	.sb_listing_load_btn{
+		text-align:left;
+		a{
+			display:inline-block;
+			width: 150px;
+			height: 50px;
+			line-height: 48px;
+			text-align: center;
+			background: $title-color-hover;
+			border: 1px solid transparent;
+			color: $title-color-white;
+			position: relative;
+			margin-top: 15px;
+			border-radius: 24px;
+			&:hover{
+				background: transparent;
+			border: 1px solid $title-color-hover;
+			color: $title-color-hover;
+			}
+		}
+	}
+}

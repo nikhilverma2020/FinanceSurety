@@ -1,0 +1,6 @@
+
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$transition\".\A         on line 17 of \A \A 12: 		.sb_blog_img_wrapper{\A 13: 			overflow:hidden;\A 14: 			position: relative;\A 15: 			img{\A 16: 				width:100%;\A 17: 				-webkit-transition: $transition;\A 18: 				-o-transition: $transition;\A 19: 				-ms-transition: $transition;\A 20: 				-moz-transition: $transition;\A 21: 				transition: $transition;\A 22: 			}"; }

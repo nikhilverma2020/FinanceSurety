@@ -1,0 +1,113 @@
+/************************-- TESTIMONIAL CSS START --********************************/
+
+.sb_testimonial_main_wrapper{
+    background: url(../images/testimonial-img.png) center no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+    background-size: cover;
+  .sb_testimonial_slider_wrapper{
+  .owl-theme{
+    .owl-dots{
+      display:block;
+      padding-top: 20px;
+      	.owl-dot{
+      		span{
+      			background: #8cd2ef;
+      			width: 15px;
+      			height: 15px;
+      		}
+      	}
+      	.active{
+      			span{
+      				background: #fff;
+      			}
+      		}
+    }
+    .owl-nav{
+      display:none;    
+    }
+  }
+  .os_index5_testimonial_slider_box{
+  		text-align: center;
+  }
+  .os_index5_testimonial_slider_img{
+    max-width: 150px;
+    width: 100%;
+    margin: 0 auto;
+    	h3{
+    		padding-top: 20px;
+		    font-size: 20px;
+		    color: #fff;
+		  }
+		  span{
+		    		font-size: 14px;
+    				color: #fff;
+		    	}
+  }
+  .os_index5_testimonial_slider_img_cont{
+    float:left;
+    width: 100%;
+    padding-left:30px;
+    padding-top: 25px;
+    p{
+      color: #fff;
+      line-height: 28px;
+    }
+    h3{
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 20px;
+      color: #000;
+      float:left;
+      padding-top:20px;
+    }
+    span{
+      font-size:16px;
+      color:$body-color;
+      padding-top:19px;
+      float:left;
+      padding-left:10px;
+    }
+  }
+}
+}
+
+.sb_gettouch_main_wrapper{
+	padding: 100px 0px;
+		.contact_form{
+			width: 100%;
+		    max-width: 600px;
+		    margin: 0 auto;
+		    margin-top: 40px;
+		    form{
+		    	margin-bottom: 40px;
+		    }
+		}
+		.request_btn{
+			max-width: 143px;
+		    width: 100%;
+		    margin: 0 auto;
+		    display: block;
+		    background-color: #31d7e3;
+		    padding: 9px 17px;
+		    color: #fff;
+		    text-align: center;
+		    border: 1px solid #31d7e3;
+		    border-radius: 24px;
+		    -webkit-transition: all 0.5s;
+		    -o-transition: all 0.5s;
+		    -ms-transition: all 0.5s;
+		    -moz-transition: all 0.5s;
+		    transition: all 0.5s;
+		    	&:hover{
+		    		background-color: transparent;
+		    		color: #31d7e3;
+		    		 -webkit-transition: all 0.5s;
+		    -o-transition: all 0.5s;
+		    -ms-transition: all 0.5s;
+		    -moz-transition: all 0.5s;
+		    transition: all 0.5s;
+		    	}
+		}
+}
